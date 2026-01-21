@@ -27,7 +27,7 @@ Features available in our data consist of:
 Results on both validation and test sets demonstrate both decision tree and random forest algorithms to produce the highest accuracy score, thus being more likely to effectively classify client data into a service plan to recomend.
 
 | Model | Accuracy|
-|---|---|
+| --- | --- |
 | Decision Tree | 0.78 |
 | Random Forest | 0.78 |
 
